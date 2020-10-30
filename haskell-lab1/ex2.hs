@@ -1,0 +1,1 @@
+printHello = putStrLn "Hello"

@@ -1,0 +1,2 @@
+-- W jakich sytuacjach może być przydatny operator (<$)?
+-- odpowiedz: kiedy chcemy podmienic wszystkie lokacje tą samą wartością
